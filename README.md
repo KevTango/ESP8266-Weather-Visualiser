@@ -1,6 +1,6 @@
 # ESP8266 Weather Visualiser
 
-I will add steps at a later date
+I will add steps and final photos at a later date
 
 ## Pins
 
