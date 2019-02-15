@@ -1,5 +1,7 @@
 # ESP8266 Weather Visualiser
 
+I will add steps at a later date
+
 ## Pins
 
 ### ESP8266 to OLED Display
