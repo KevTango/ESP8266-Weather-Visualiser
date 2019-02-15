@@ -26,8 +26,8 @@ DO(Data Output) does not need to be connected
 
 ### Breadboard Connection
 
-![Breadboard connection](https://github.com/KevTango/ESP8266-Weather-Visualiser/img/ESP8266_NeoPixel_Indicator_Sketch_bb.jpg)
+![Breadboard connection](https://github.com/KevTango/ESP8266-Weather-Visualiser/blob/master/img/ESP8266_NeoPixel_Indicator_Sketch_bb.jpg)
 
 ### Schematic
 
-![Schematic](https://github.com/KevTango/ESP8266-Weather-Visualiser/img/ESP8266_NeoPixel_Indicator_Sketch_schem.jpg)
+![Schematic](https://github.com/KevTango/ESP8266-Weather-Visualiser/blob/master/img/ESP8266_NeoPixel_Indicator_Sketch_schem.jpg)
