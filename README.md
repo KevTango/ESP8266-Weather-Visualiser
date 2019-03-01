@@ -1,8 +1,12 @@
 # ESP8266 Weather Visualiser
 
+## Final Product
+
 I will add steps and final photos at a later date
 
 ## Pins
+
+![Final Product](https://github.com/KevTango/ESP8266-Weather-Visualiser/blob/master/img/esp8266=weather-module.jpg)
 
 ### ESP8266 to OLED Display
 
